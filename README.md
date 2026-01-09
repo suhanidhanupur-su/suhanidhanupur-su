@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋, I'm Suhani Kumari  .
+<img align="right" width="320" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"/>
+🎓 CS Student
 
-<!--
-**suhanidhanupur-su/suhanidhanupur-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 Currently Learning
+- Python Programming  
+- AI & ML Fundamentals  
+
+
+
+
+### 🛠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />
+</p>
+
+
+
+### 📊 GitHub Stats
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanikumari&show_icons=true&theme=tokyonight)
+
+
+### 🔗 Connect With Me
+- 📍 Uttar Pradesh, India  
+- 📧 Email: suhanidhanupur@gmail.com

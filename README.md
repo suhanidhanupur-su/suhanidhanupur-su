@@ -20,8 +20,6 @@
 
 
 
-### 📊 GitHub Stats
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanikumari&show_icons=true&theme=tokyonight)
 
 
 ### 🔗 Connect With Me

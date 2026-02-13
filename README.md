@@ -17,9 +17,6 @@
 </p>
 
 
-
-
-
 ### 🔗 Connect With Me
 - 📍 Uttar Pradesh, India  
 - 📧 Email: suhanidhanupur@gmail.com

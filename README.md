@@ -6,8 +6,12 @@
 🚀 Aspiring Software Engineer  
 
 ### 🌱 Currently Learning
-- Python Programming  
-- AI & ML Fundamentals  
+
+🐍 Python Programming
+
+🤖 AI & Machine Learning Fundamentals
+
+🌐 Web Development
 
 
 

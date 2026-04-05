@@ -12,8 +12,6 @@
 
 🌐 Web Development
 
-
-
 ### 🛠 Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />

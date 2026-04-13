@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />
 </p>
 
-
 ### 🔗 Connect With Me
 - 📍 Uttar Pradesh, India  
 - 📧 Email: suhanidhanupur@gmail.com

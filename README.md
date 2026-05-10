@@ -4,8 +4,7 @@
 🎓 CS Student
 
 
-🚀 Aspiring Full-Stack Developer
-
+🚀 Aspiring Software Engineer
 
 ### 🌱 Currently Learning
 

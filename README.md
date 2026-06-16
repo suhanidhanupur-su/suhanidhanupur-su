@@ -4,9 +4,6 @@
 
 🎓 CS Student
 
-
-
-
 🚀 Aspiring Software Engineer
 
 ### 🌱 Currently Learning

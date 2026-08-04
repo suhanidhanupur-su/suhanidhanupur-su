@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Suhani%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h3 align="center">CS Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">CS Student | Aspiring Full Software Engineer</h3>
 
 
 

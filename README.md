@@ -2,9 +2,7 @@
 
 <h3 align="center">CS Student | Aspiring Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanidhanupur&style=flat-square&color=B57EDC" alt="profile views" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=B57EDC&center=true&vCenter=true&width=460&lines=Preparing+for+Full+Stack+Development+%F0%9F%92%BB;Learning+Python+%F0%9F%90%8D;Building+Projects+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90" alt="Typing SVG" />

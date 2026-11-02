@@ -10,7 +10,6 @@
 
 I'm a **BCA student** at Shobhit University (expected graduation: 2028) with a strong foundation in **Python and web development**. I build and deploy database-driven websites using **Django and PostgreSQL**, with a focus on clean backend design, API development, and responsive frontends.
 
-I'm currently seeking a **Full-Stack or Web Development internship** where I can contribute to production-level projects and grow under experienced mentors.
 
 - 🎓 BCA student, Shobhit University (2028)
 - 💻 Focused on full-stack and backend web development

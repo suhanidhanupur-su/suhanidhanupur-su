@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suhani%20Thakur&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20and%20Django&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=B57EDC&center=true&vCenter=true&width=520&lines=Building+database-driven+web+apps+%F0%9F%92%BB;Python+%2B+Django+%2B+PostgreSQL+%F0%9F%90%8D;Open+to+Full-Stack+and+Web+Dev+internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=B57EDC&center=true&vCenter=true&width=520&lines=Building+database-driven+web+apps+%F0%9F%92%BB;Python+%2B+Django+%2B+PostgreSQL+%F0%9F%90%8D; alt="Typing SVG" />
 </p>
 
 ---
@@ -10,6 +10,7 @@
 
 I'm a **BCA student** at Shobhit University (expected graduation: 2028) with a strong foundation in **Python and web development**. I build and deploy database-driven websites using **Django and PostgreSQL**, with a focus on clean backend design, API development, and responsive frontends.
 
+I'm currently seeking a **Full-Stack or Web Development internship** where I can contribute to production-level projects and grow under experienced mentors.
 
 - 🎓 BCA student, Shobhit University (2028)
 - 💻 Focused on full-stack and backend web development

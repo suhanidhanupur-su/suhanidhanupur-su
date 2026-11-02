@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suhani%20Thakur&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20and%20Django&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=B57EDC&center=true&vCenter=true&width=520&lines=Building+database-driven+web+apps+%F0%9F%92%BB;Python+%2B+Django+%2B+PostgreSQL+%F0%9F%90%8D; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=B57EDC&center=true&vCenter=true&width=520&lines=Building+database-driven+web+apps+%F0%9F%92%BB;Python+%2B+Django+%2B+PostgreSQL+%F0%9F%90%8D;Open+to+Full-Stack+and+Web+Dev+internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---

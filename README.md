@@ -36,22 +36,6 @@ I'm currently seeking a **Full-Stack or Web Development internship** where I can
 
 ---
 
-## 🚀 Featured Project
-
-### [Vetal Sand Solutions](https://vetal-sand-solutions.vercel.app) — Business Website
-
-A full business website for an industrial silica sand company, built end to end with Django and deployed to production.
-
-**Tech:** `Django` `PostgreSQL` `Bootstrap` `Vercel`
-
-**Highlights**
-- Designed and developed the complete site, including dynamic product listings, industry information, a gallery, and a contact section
-- Built a **custom admin panel** so the client can manage product details and upload gallery images without touching code
-- Integrated **PostgreSQL** for structured data storage and management
-- Deployed to production on **Vercel** with source code maintained on GitHub
-
-🔗 [Live Site](https://vetal-sand-solutions.vercel.app)
-
 ---
 
 ## 🎯 Currently
